@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family:'Silkscreen', cursive;;
+    background-color: #EA047E;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    background-color: #FCE700;
+}
+
+h2,h3 {
+   background-color: #00F5FF;
+}
+
+p{
+    color: white;
+}
+
+ul {
+    color: white;
+    list-style-position:inside;
+    display: inline-block;
+    text-align: left;
+}
+li {
+    position:relative;}
